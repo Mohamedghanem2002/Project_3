@@ -1542,4 +1542,7 @@ ul{
   margin: 50px 0 0;
   border-top: 1px solid #444;
 }
+.footer .copyright span{
+  color: var(--main-color);
+}
 /* End Footer */
